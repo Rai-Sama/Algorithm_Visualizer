@@ -1,5 +1,5 @@
 # Algorithm_Visualizer
-Mini Project for the course Computer graphics (Semester 4)
+Mini Project for the course "Computer Graphics" of semester-4 of B.E.
 
 This is a visualizer for sorting and path finding algorithms made using C++/OpenGL
 ## Algorithms
@@ -43,5 +43,5 @@ Pathfinding or pathing is the plotting, by a computer application, of the shorte
 ![Sorting_demo](https://user-images.githubusercontent.com/48092867/133843205-fe67dda9-58d9-4090-ba44-1534214e1c20.gif)
 
 ### Path finding
-Note: Brown block -> obstacles and Green blocks -> Path found
+Note: Blue blocks -> Blocks searched already, Brown blocks -> obstacles and Green blocks -> Path found
 ![path-finding_demo](https://user-images.githubusercontent.com/48092867/133843414-2e1a687d-2683-4426-8363-84d74508ede5.gif)
